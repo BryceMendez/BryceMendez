@@ -1,0 +1,379 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 280" width="900" height="280" role="img" aria-label="Hi, I'm Bryce" xmlns:c2pa="http://c2pa.org/manifest">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#FFEAF1"/>
+    <stop offset="0.55" stop-color="#FFD3E0"/>
+    <stop offset="1" stop-color="#FFBFD2"/>
+    <animate attributeName="x1" values="0;0.25;0" dur="12s" repeatCount="indefinite"/>
+  </linearGradient>
+  <clipPath id="round"><rect width="900" height="280" rx="22"/></clipPath>
+  
+  <linearGradient id="pg" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#FFF7FA"/>
+    <stop offset="1" stop-color="#FFB3C6"/>
+  </linearGradient>
+  <g id="petal">
+    <path d="M0 -8 C6 -8 9.5 -2 6.5 4.5 C4.5 8.5 1.5 9.5 0 6.5 C-1.5 9.5 -4.5 8.5 -6.5 4.5 C-9.5 -2 -6 -8 0 -8 Z" fill="url(#pg)" stroke="#FFA3BC" stroke-width="0.4" stroke-opacity="0.6"/>
+  </g>
+
+</defs>
+<g clip-path="url(#round)">
+  <rect width="900" height="280" fill="url(#bg)"/>
+  <circle cx="291" cy="56" r="36" fill="#FFFFFF" opacity="0.22">
+    <animate attributeName="cx" values="291;331;291" dur="11s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.12;0.3;0.12" dur="8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="482" cy="108" r="20" fill="#FFFFFF" opacity="0.22">
+    <animate attributeName="cx" values="482;522;482" dur="15s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.12;0.3;0.12" dur="11s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="34" cy="124" r="20" fill="#FFFFFF" opacity="0.22">
+    <animate attributeName="cx" values="34;74;34" dur="11s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.12;0.3;0.12" dur="8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="382" cy="218" r="21" fill="#FFFFFF" opacity="0.22">
+    <animate attributeName="cx" values="382;422;382" dur="12s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.12;0.3;0.12" dur="9s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="565" cy="247" r="34" fill="#FFFFFF" opacity="0.22">
+    <animate attributeName="cx" values="565;605;565" dur="14s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.12;0.3;0.12" dur="10s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="879" cy="31" r="42" fill="#FFFFFF" opacity="0.22">
+    <animate attributeName="cx" values="879;919;879" dur="13s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.12;0.3;0.12" dur="9s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="130" cy="48" r="27" fill="#FFFFFF" opacity="0.22">
+    <animate attributeName="cx" values="130;170;130" dur="18s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.12;0.3;0.12" dur="13s" repeatCount="indefinite"/>
+  </circle>
+
+  <g transform="translate(523,0)">
+    <animateMotion dur="8.3s" begin="-3.1s" repeatCount="indefinite" path="M0,-30 C-57.38722328547789,102.0 57.38722328547789,221.0 -22.954889314191156,340"/>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0.8489243485340475;0.8489243485340475;0" keyTimes="0;0.1;0.85;1" dur="8.3s" begin="-3.1s" repeatCount="indefinite"/>
+      <g>
+        <animateTransform attributeName="transform" type="rotate" from="0" to="-360" dur="6.8s" repeatCount="indefinite"/>
+        <g>
+          <animateTransform attributeName="transform" type="scale" values="1 1;0.45 1;1 1" dur="2.7s" repeatCount="indefinite"/>
+          <use href="#petal" transform="scale(1.93)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g transform="translate(419,0)">
+    <animateMotion dur="12.4s" begin="-4.5s" repeatCount="indefinite" path="M0,-30 C-42.42132924287746,102.0 42.42132924287746,221.0 -16.968531697150986,340"/>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0.8723271130776012;0.8723271130776012;0" keyTimes="0;0.1;0.85;1" dur="12.4s" begin="-4.5s" repeatCount="indefinite"/>
+      <g>
+        <animateTransform attributeName="transform" type="rotate" from="0" to="-360" dur="7.5s" repeatCount="indefinite"/>
+        <g>
+          <animateTransform attributeName="transform" type="scale" values="1 1;0.45 1;1 1" dur="2.0s" repeatCount="indefinite"/>
+          <use href="#petal" transform="scale(2.30)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g transform="translate(657,0)">
+    <animateMotion dur="13.1s" begin="-12.9s" repeatCount="indefinite" path="M0,-30 C35.90328891274811,102.0 -35.90328891274811,221.0 14.361315565099245,340"/>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0.9799810636541912;0.9799810636541912;0" keyTimes="0;0.1;0.85;1" dur="13.1s" begin="-12.9s" repeatCount="indefinite"/>
+      <g>
+        <animateTransform attributeName="transform" type="rotate" from="0" to="-360" dur="4.8s" repeatCount="indefinite"/>
+        <g>
+          <animateTransform attributeName="transform" type="scale" values="1 1;0.45 1;1 1" dur="2.2s" repeatCount="indefinite"/>
+          <use href="#petal" transform="scale(1.47)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g transform="translate(601,0)">
+    <animateMotion dur="7.3s" begin="-4.2s" repeatCount="indefinite" path="M0,-30 C73.77389059154441,102.0 -73.77389059154441,221.0 29.50955623661777,340"/>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0.8490024385896963;0.8490024385896963;0" keyTimes="0;0.1;0.85;1" dur="7.3s" begin="-4.2s" repeatCount="indefinite"/>
+      <g>
+        <animateTransform attributeName="transform" type="rotate" from="0" to="-360" dur="5.7s" repeatCount="indefinite"/>
+        <g>
+          <animateTransform attributeName="transform" type="scale" values="1 1;0.45 1;1 1" dur="2.2s" repeatCount="indefinite"/>
+          <use href="#petal" transform="scale(2.09)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g transform="translate(84,0)">
+    <animateMotion dur="7.5s" begin="-5.2s" repeatCount="indefinite" path="M0,-30 C33.24999878580474,102.0 -33.24999878580474,221.0 13.299999514321897,340"/>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0.9465774359829144;0.9465774359829144;0" keyTimes="0;0.1;0.85;1" dur="7.5s" begin="-5.2s" repeatCount="indefinite"/>
+      <g>
+        <animateTransform attributeName="transform" type="rotate" from="0" to="-360" dur="7.2s" repeatCount="indefinite"/>
+        <g>
+          <animateTransform attributeName="transform" type="scale" values="1 1;0.45 1;1 1" dur="3.5s" repeatCount="indefinite"/>
+          <use href="#petal" transform="scale(1.45)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g transform="translate(798,0)">
+    <animateMotion dur="12.0s" begin="-11.3s" repeatCount="indefinite" path="M0,-30 C-47.7732054770173,102.0 47.7732054770173,221.0 -19.10928219080692,340"/>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0.7862295779496585;0.7862295779496585;0" keyTimes="0;0.1;0.85;1" dur="12.0s" begin="-11.3s" repeatCount="indefinite"/>
+      <g>
+        <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="6.5s" repeatCount="indefinite"/>
+        <g>
+          <animateTransform attributeName="transform" type="scale" values="1 1;0.45 1;1 1" dur="1.9s" repeatCount="indefinite"/>
+          <use href="#petal" transform="scale(1.55)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g transform="translate(825,0)">
+    <animateMotion dur="9.8s" begin="-1.6s" repeatCount="indefinite" path="M0,-30 C50.082212816715206,102.0 -50.082212816715206,221.0 20.032885126686082,340"/>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0.9591953409095546;0.9591953409095546;0" keyTimes="0;0.1;0.85;1" dur="9.8s" begin="-1.6s" repeatCount="indefinite"/>
+      <g>
+        <animateTransform attributeName="transform" type="rotate" from="0" to="-360" dur="8.4s" repeatCount="indefinite"/>
+        <g>
+          <animateTransform attributeName="transform" type="scale" values="1 1;0.45 1;1 1" dur="3.1s" repeatCount="indefinite"/>
+          <use href="#petal" transform="scale(1.75)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g transform="translate(888,0)">
+    <animateMotion dur="11.9s" begin="-4.5s" repeatCount="indefinite" path="M0,-30 C-41.53757540543411,102.0 41.53757540543411,221.0 -16.615030162173646,340"/>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0.7700008251042583;0.7700008251042583;0" keyTimes="0;0.1;0.85;1" dur="11.9s" begin="-4.5s" repeatCount="indefinite"/>
+      <g>
+        <animateTransform attributeName="transform" type="rotate" from="0" to="-360" dur="4.9s" repeatCount="indefinite"/>
+        <g>
+          <animateTransform attributeName="transform" type="scale" values="1 1;0.45 1;1 1" dur="2.0s" repeatCount="indefinite"/>
+          <use href="#petal" transform="scale(1.99)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g transform="translate(164,0)">
+    <animateMotion dur="12.8s" begin="-1.9s" repeatCount="indefinite" path="M0,-30 C56.72954811500518,102.0 -56.72954811500518,221.0 22.691819246002073,340"/>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0.8546474299212334;0.8546474299212334;0" keyTimes="0;0.1;0.85;1" dur="12.8s" begin="-1.9s" repeatCount="indefinite"/>
+      <g>
+        <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="8.8s" repeatCount="indefinite"/>
+        <g>
+          <animateTransform attributeName="transform" type="scale" values="1 1;0.45 1;1 1" dur="2.9s" repeatCount="indefinite"/>
+          <use href="#petal" transform="scale(1.47)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g transform="translate(784,0)">
+    <animateMotion dur="10.2s" begin="-6.9s" repeatCount="indefinite" path="M0,-30 C57.96358704283047,102.0 -57.96358704283047,221.0 23.18543481713219,340"/>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0.8902868697057127;0.8902868697057127;0" keyTimes="0;0.1;0.85;1" dur="10.2s" begin="-6.9s" repeatCount="indefinite"/>
+      <g>
+        <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="6.0s" repeatCount="indefinite"/>
+        <g>
+          <animateTransform attributeName="transform" type="scale" values="1 1;0.45 1;1 1" dur="1.7s" repeatCount="indefinite"/>
+          <use href="#petal" transform="scale(2.34)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g transform="translate(886,0)">
+    <animateMotion dur="8.3s" begin="-0.9s" repeatCount="indefinite" path="M0,-30 C-60.03636302522406,102.0 60.03636302522406,221.0 -24.014545210089626,340"/>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0.7304393104067789;0.7304393104067789;0" keyTimes="0;0.1;0.85;1" dur="8.3s" begin="-0.9s" repeatCount="indefinite"/>
+      <g>
+        <animateTransform attributeName="transform" type="rotate" from="0" to="-360" dur="4.0s" repeatCount="indefinite"/>
+        <g>
+          <animateTransform attributeName="transform" type="scale" values="1 1;0.45 1;1 1" dur="1.8s" repeatCount="indefinite"/>
+          <use href="#petal" transform="scale(1.67)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g transform="translate(63,0)">
+    <animateMotion dur="11.3s" begin="-4.2s" repeatCount="indefinite" path="M0,-30 C61.720478926695044,102.0 -61.720478926695044,221.0 24.68819157067802,340"/>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0.7346060548326453;0.7346060548326453;0" keyTimes="0;0.1;0.85;1" dur="11.3s" begin="-4.2s" repeatCount="indefinite"/>
+      <g>
+        <animateTransform attributeName="transform" type="rotate" from="0" to="-360" dur="7.0s" repeatCount="indefinite"/>
+        <g>
+          <animateTransform attributeName="transform" type="scale" values="1 1;0.45 1;1 1" dur="2.4s" repeatCount="indefinite"/>
+          <use href="#petal" transform="scale(1.37)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g transform="translate(419,0)">
+    <animateMotion dur="14.0s" begin="-1.2s" repeatCount="indefinite" path="M0,-30 C35.10938083740842,102.0 -35.10938083740842,221.0 14.04375233496337,340"/>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0.9076170306535928;0.9076170306535928;0" keyTimes="0;0.1;0.85;1" dur="14.0s" begin="-1.2s" repeatCount="indefinite"/>
+      <g>
+        <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="7.7s" repeatCount="indefinite"/>
+        <g>
+          <animateTransform attributeName="transform" type="scale" values="1 1;0.45 1;1 1" dur="2.5s" repeatCount="indefinite"/>
+          <use href="#petal" transform="scale(1.73)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g transform="translate(857,0)">
+    <animateMotion dur="8.4s" begin="-5.8s" repeatCount="indefinite" path="M0,-30 C75.70728913956972,102.0 -75.70728913956972,221.0 30.282915655827892,340"/>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0.9088590357723405;0.9088590357723405;0" keyTimes="0;0.1;0.85;1" dur="8.4s" begin="-5.8s" repeatCount="indefinite"/>
+      <g>
+        <animateTransform attributeName="transform" type="rotate" from="0" to="-360" dur="8.9s" repeatCount="indefinite"/>
+        <g>
+          <animateTransform attributeName="transform" type="scale" values="1 1;0.45 1;1 1" dur="3.2s" repeatCount="indefinite"/>
+          <use href="#petal" transform="scale(1.57)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g transform="translate(817,0)">
+    <animateMotion dur="10.6s" begin="-2.4s" repeatCount="indefinite" path="M0,-30 C57.07835613900977,102.0 -57.07835613900977,221.0 22.83134245560391,340"/>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0.936519779231234;0.936519779231234;0" keyTimes="0;0.1;0.85;1" dur="10.6s" begin="-2.4s" repeatCount="indefinite"/>
+      <g>
+        <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="7.2s" repeatCount="indefinite"/>
+        <g>
+          <animateTransform attributeName="transform" type="scale" values="1 1;0.45 1;1 1" dur="2.7s" repeatCount="indefinite"/>
+          <use href="#petal" transform="scale(1.56)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g transform="translate(736,0)">
+    <animateMotion dur="12.6s" begin="-2.9s" repeatCount="indefinite" path="M0,-30 C55.881936212175276,102.0 -55.881936212175276,221.0 22.35277448487011,340"/>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0.9370342409895774;0.9370342409895774;0" keyTimes="0;0.1;0.85;1" dur="12.6s" begin="-2.9s" repeatCount="indefinite"/>
+      <g>
+        <animateTransform attributeName="transform" type="rotate" from="0" to="-360" dur="7.7s" repeatCount="indefinite"/>
+        <g>
+          <animateTransform attributeName="transform" type="scale" values="1 1;0.45 1;1 1" dur="3.5s" repeatCount="indefinite"/>
+          <use href="#petal" transform="scale(2.06)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g transform="translate(623,0)">
+    <animateMotion dur="8.8s" begin="-3.9s" repeatCount="indefinite" path="M0,-30 C76.85106006381211,102.0 -76.85106006381211,221.0 30.740424025524845,340"/>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0.7661386968988713;0.7661386968988713;0" keyTimes="0;0.1;0.85;1" dur="8.8s" begin="-3.9s" repeatCount="indefinite"/>
+      <g>
+        <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="8.8s" repeatCount="indefinite"/>
+        <g>
+          <animateTransform attributeName="transform" type="scale" values="1 1;0.45 1;1 1" dur="2.2s" repeatCount="indefinite"/>
+          <use href="#petal" transform="scale(2.34)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g transform="translate(304,0)">
+    <animateMotion dur="10.3s" begin="-10.1s" repeatCount="indefinite" path="M0,-30 C-60.513107344670416,102.0 60.513107344670416,221.0 -24.205242937868167,340"/>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0.9398931234548981;0.9398931234548981;0" keyTimes="0;0.1;0.85;1" dur="10.3s" begin="-10.1s" repeatCount="indefinite"/>
+      <g>
+        <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="6.4s" repeatCount="indefinite"/>
+        <g>
+          <animateTransform attributeName="transform" type="scale" values="1 1;0.45 1;1 1" dur="2.8s" repeatCount="indefinite"/>
+          <use href="#petal" transform="scale(1.73)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g transform="translate(108,0)">
+    <animateMotion dur="12.8s" begin="-9.1s" repeatCount="indefinite" path="M0,-30 C-39.965970172745266,102.0 39.965970172745266,221.0 -15.986388069098107,340"/>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0.7260249573010732;0.7260249573010732;0" keyTimes="0;0.1;0.85;1" dur="12.8s" begin="-9.1s" repeatCount="indefinite"/>
+      <g>
+        <animateTransform attributeName="transform" type="rotate" from="0" to="-360" dur="6.2s" repeatCount="indefinite"/>
+        <g>
+          <animateTransform attributeName="transform" type="scale" values="1 1;0.45 1;1 1" dur="2.8s" repeatCount="indefinite"/>
+          <use href="#petal" transform="scale(1.61)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g transform="translate(669,0)">
+    <animateMotion dur="10.2s" begin="-1.6s" repeatCount="indefinite" path="M0,-30 C-79.65561782085834,102.0 79.65561782085834,221.0 -31.862247128343338,340"/>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0.9419505946096588;0.9419505946096588;0" keyTimes="0;0.1;0.85;1" dur="10.2s" begin="-1.6s" repeatCount="indefinite"/>
+      <g>
+        <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="4.8s" repeatCount="indefinite"/>
+        <g>
+          <animateTransform attributeName="transform" type="scale" values="1 1;0.45 1;1 1" dur="3.3s" repeatCount="indefinite"/>
+          <use href="#petal" transform="scale(1.21)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g transform="translate(536,0)">
+    <animateMotion dur="11.3s" begin="-10.6s" repeatCount="indefinite" path="M0,-30 C-37.795621286578495,102.0 37.795621286578495,221.0 -15.118248514631398,340"/>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0.9179110169030904;0.9179110169030904;0" keyTimes="0;0.1;0.85;1" dur="11.3s" begin="-10.6s" repeatCount="indefinite"/>
+      <g>
+        <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="4.1s" repeatCount="indefinite"/>
+        <g>
+          <animateTransform attributeName="transform" type="scale" values="1 1;0.45 1;1 1" dur="3.1s" repeatCount="indefinite"/>
+          <use href="#petal" transform="scale(1.72)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g transform="translate(840,0)">
+    <animateMotion dur="10.7s" begin="-9.3s" repeatCount="indefinite" path="M0,-30 C-71.30776259076106,102.0 71.30776259076106,221.0 -28.523105036304425,340"/>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0.8503485759508744;0.8503485759508744;0" keyTimes="0;0.1;0.85;1" dur="10.7s" begin="-9.3s" repeatCount="indefinite"/>
+      <g>
+        <animateTransform attributeName="transform" type="rotate" from="0" to="-360" dur="4.1s" repeatCount="indefinite"/>
+        <g>
+          <animateTransform attributeName="transform" type="scale" values="1 1;0.45 1;1 1" dur="1.9s" repeatCount="indefinite"/>
+          <use href="#petal" transform="scale(1.66)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g transform="translate(377,0)">
+    <animateMotion dur="8.8s" begin="-8.0s" repeatCount="indefinite" path="M0,-30 C47.689201197662946,102.0 -47.689201197662946,221.0 19.07568047906518,340"/>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0.8550282510086036;0.8550282510086036;0" keyTimes="0;0.1;0.85;1" dur="8.8s" begin="-8.0s" repeatCount="indefinite"/>
+      <g>
+        <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="7.3s" repeatCount="indefinite"/>
+        <g>
+          <animateTransform attributeName="transform" type="scale" values="1 1;0.45 1;1 1" dur="3.1s" repeatCount="indefinite"/>
+          <use href="#petal" transform="scale(1.27)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g transform="translate(471,0)">
+    <animateMotion dur="10.7s" begin="-4.7s" repeatCount="indefinite" path="M0,-30 C-39.155394363609936,102.0 39.155394363609936,221.0 -15.662157745443976,340"/>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0.7424676913175573;0.7424676913175573;0" keyTimes="0;0.1;0.85;1" dur="10.7s" begin="-4.7s" repeatCount="indefinite"/>
+      <g>
+        <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="7.9s" repeatCount="indefinite"/>
+        <g>
+          <animateTransform attributeName="transform" type="scale" values="1 1;0.45 1;1 1" dur="1.8s" repeatCount="indefinite"/>
+          <use href="#petal" transform="scale(1.12)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+
+  <g font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" text-anchor="middle">
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -5;0 0" dur="5s" repeatCount="indefinite"/>
+      <text x="450.0" y="135" font-size="58" font-weight="700" fill="#E75480" stroke="#FFFFFF" stroke-width="7" stroke-opacity="0.75" paint-order="stroke" opacity="0">
+        Hi, I'm Bryce
+        <animate attributeName="opacity" from="0" to="1" dur="1.6s" fill="freeze"/>
+      </text>
+      <text x="450.0" y="182" font-size="21" font-weight="600" letter-spacing="3" fill="#B5486B" stroke="#FFFFFF" stroke-width="4" stroke-opacity="0.6" paint-order="stroke" opacity="0">
+        BSIT STUDENT  ·  DEVELOPER  ·  DREAMER
+        <animate attributeName="opacity" from="0" to="1" dur="1.6s" begin="0.6s" fill="freeze"/>
+      </text>
+    </g>
+  </g>
+  <rect x="2" y="2" width="896" height="276" rx="20" fill="none" stroke="#FFFFFF" stroke-opacity="0.7" stroke-width="2"/>
+</g>
+<metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo2NzkxODJmMi0wODFmLTRmYzAtOGFmMi01OGQyZDU3YWE0NWYAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaLgzu40ZAlE3BxYp0VTOTgwAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo1NTg0MmM5MS01ZjI5LTQ1ZjgtYjQzZC0xMDVmN2NmZTY5YTlscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNotSa6RoCpc5E/aTZ7776s1AAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggHv9L+7XOsd+yiSqWuggXFcBXHB31v69+6fIUqtLXZv6kZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaIlDkPt9IfqM1bXacJ8QWLkAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRMAAAAAAAAAAAAAAAAZGhhc2hYIMWbZt8axIrAQmRxVnnFiDC51+soEc1p6K1nVQCUnzMBZG5hbWVuanVtYmYgbWFuaWZlc3RqZXhjbHVzaW9uc4GiZXN0YXJ0GVV9Zmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjY3OTE4MmYyLTA4MWYtNGZjMC04YWYyLTU4ZDJkNTdhYTQ1Zi9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOmJhN2ZhY2UxLTg5YmEtNGYzZi05Mjg4LTk5MWIxNDRiODFjN3JjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCAe/0v7tc6x37KJKpa6CBcVwFccHfW/r37p8hSq0tdm/qJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggdIbq4DFHtbq+fjeKh5MrC5BnigouRI2dNxiLCPRCCHyiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggF7UJfJpvUrSwZPDc79ciYuqCrwbjkIT4NxvANJAVJJJ0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQFq98RoR364hSYUcR2CebwPuQ9Z6BJ50krbvaJYCRHIEIe7/gnviK95MtS8cCG4Wi6+TxYKovCetaQm2QfVfQLM=</c2pa:manifest></metadata></svg>
