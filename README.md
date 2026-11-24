@@ -10,8 +10,6 @@
 
 ## 🌸 About Me
 
-<img align="right" width="220" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="sakura" />
-
 - 🎓 BSIT student at the **University of Cebu**, College of Computer Studies 🇵🇭
 - 💻 I love building apps that solve real problems
 - 🌱 Currently learning and leveling up my dev skills
