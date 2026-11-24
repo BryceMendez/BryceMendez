@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFB7C5&height=240&section=header&text=Hi%2C%20I'm%20Bambi&fontSize=56&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=%F0%9F%8C%B8%20BSIT%20Student%20%C2%B7%20Developer%20%C2%B7%20Dreamer%20%F0%9F%8C%B8&descSize=20&descAlignY=60" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFB7C5&height=240&section=header&text=Hi%2C%20I'm%20Bryce&fontSize=56&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=%F0%9F%8C%B8%20BSIT%20Student%20%C2%B7%20Developer%20%C2%B7%20Dreamer%20%F0%9F%8C%B8&descSize=20&descAlignY=60" width="100%" alt="header" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=1000&color=E75480&center=true&vCenter=true&width=560&lines=%F0%9F%8C%B8+Welcome+to+my+little+garden+of+code;%F0%9F%92%BB+Building+apps+one+petal+at+a+time;%F0%9F%8C%B1+Always+learning%2C+always+growing" alt="Typing SVG" />
