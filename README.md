@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFB7C5&height=240&section=header&text=Hi%2C%20I'm%20Bryce&fontSize=56&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=%F0%9F%8C%B8%20BSIT%20Student%20%C2%B7%20Developer%20%C2%B7%20Dreamer%20%F0%9F%8C%B8&descSize=20&descAlignY=60" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFB7C5&height=220&section=header&text=Hi%2C%20I'm%20Bryce&fontSize=56&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=%F0%9F%8C%B8%20BSIT%20Student%20%C2%B7%20Developer%20%C2%B7%20Dreamer%20%F0%9F%8C%B8&descSize=20&descAlignY=60" width="100%" alt="header" />
 
 </div>
 
@@ -47,7 +47,6 @@
 
 <div align="center">
 
-<a href="https://github.com/BryceMendez"><img src="https://img.shields.io/badge/GitHub-FFB7C5?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://www.linkedin.com/in/mendezbryce/"><img src="https://img.shields.io/badge/LinkedIn-FFC1D6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:brycemendez570@gmail.com"><img src="https://img.shields.io/badge/Email-FFADC6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://www.facebook.com/bryce.mendez.513333"><img src="https://img.shields.io/badge/Facebook-F9A8C4?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
