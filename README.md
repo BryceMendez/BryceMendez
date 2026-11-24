@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="./assets/sakura-header.svg" width="100%" alt="Bryce Mendez — BSIT Undergraduate" />
+<img src="./sakura-header.svg" width="100%" alt="Bryce Mendez — BSIT Undergraduate" />
 
 <br/>
 
@@ -88,6 +88,6 @@ Outside of code, I'm fueled by good ideas, late-night debugging, and way too muc
 
 *🌸 "Like sakura, every little bloom of progress counts." 🌸*
 
-<img src="./assets/sakura-footer.svg" width="100%" alt="" />
+<img src="./sakura-footer.svg" width="100%" alt="" />
 
 </div>
