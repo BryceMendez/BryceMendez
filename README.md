@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="./sakura-header.svg" width="100%" alt="Bryce Mendez — BSIT Undergraduate" />
+<img src="./sakura-banner.svg" width="100%" alt="Bryce Mendez — BSIT Undergraduate" />
 
 <br/>
 
