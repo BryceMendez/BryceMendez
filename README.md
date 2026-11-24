@@ -4,15 +4,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB7C5&height=240&section=header&text=Hi%2C%20I'm%20Bryce&fontSize=56&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=%F0%9F%8C%B8%20BSIT%20Student%20%C2%B7%20Developer%20%C2%B7%20Dreamer%20%F0%9F%8C%B8&descSize=20&descAlignY=60" width="100%" alt="header" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=1000&color=E75480&center=true&vCenter=true&width=560&lines=%F0%9F%8C%B8+Welcome+to+my+little+garden+of+code;%F0%9F%92%BB+Building+apps+one+petal+at+a+time;%F0%9F%8C%B1+Always+learning%2C+always+growing" alt="Typing SVG" />
-</a>
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Petals+Collected&color=FFB7C5&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&logoColor=white&label=Followers&labelColor=FFB7C5&color=FFD6E0)
-
 </div>
 
 ---
@@ -50,50 +41,9 @@
 
 </div>
 
-> 🌸 *Edit the badges above to match the tools you actually use. Swap the name and logo in each URL.*
 
 ---
 
-## 🌺 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/YOUR_USERNAME/YOUR_REPO_1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO_1&theme=default&bg_color=FFF0F5&title_color=E75480&text_color=8B5A6B&icon_color=FFB7C5&border_color=FFC1D6&hide_border=false" alt="Project 1" />
-</a>
-<a href="https://github.com/YOUR_USERNAME/YOUR_REPO_2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO_2&theme=default&bg_color=FFF0F5&title_color=E75480&text_color=8B5A6B&icon_color=FFB7C5&border_color=FFC1D6&hide_border=false" alt="Project 2" />
-</a>
-
-<a href="https://github.com/YOUR_USERNAME/YOUR_REPO_3">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO_3&theme=default&bg_color=FFF0F5&title_color=E75480&text_color=8B5A6B&icon_color=FFB7C5&border_color=FFC1D6&hide_border=false" alt="Project 3" />
-</a>
-<a href="https://github.com/YOUR_USERNAME/YOUR_REPO_4">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO_4&theme=default&bg_color=FFF0F5&title_color=E75480&text_color=8B5A6B&icon_color=FFB7C5&border_color=FFC1D6&hide_border=false" alt="Project 4" />
-</a>
-
-</div>
-
----
-
-## 🌸 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=false&bg_color=FFF0F5&title_color=E75480&text_color=8B5A6B&icon_color=FFB7C5&border_color=FFC1D6&ring_color=FFB7C5&count_private=true" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=false&bg_color=FFF0F5&title_color=E75480&text_color=8B5A6B&border_color=FFC1D6&langs_count=8" alt="Top Languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&background=FFF0F5&border=FFC1D6&stroke=FFC1D6&ring=E75480&fire=FFB7C5&currStreakNum=E75480&sideNums=8B5A6B&currStreakLabel=E75480&sideLabels=8B5A6B&dates=B58A98" alt="GitHub Streak" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=FFF0F5&color=E75480&line=FFB7C5&point=E75480&area=true&area_color=FFD6E0&hide_border=true" alt="Activity Graph" width="95%" />
-
-</div>
-
----
 
 ## 💌 Let's Connect
 
