@@ -39,9 +39,6 @@ Outside of code, I'm fueled by good ideas, late-night debugging, and way too muc
 
 `Git` · `Figma`
 
-### Technical Foundations
-
-`Problem Solving` · `UI/UX Design` · `Web Development` · `Mobile Development` · `Version Control`
 
 <img src="./sakura-footer.svg" width="100%" alt="" />
 
