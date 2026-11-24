@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="./assets/sakura-header.svg" width="100%" alt="Hi, I'm Bryce" />
+<img src="./sakura-header.svg" width="100%" alt="Hi, I'm Bryce" />
 
 </div>
 
-<img src="./assets/sakura-divider.svg" width="100%" alt="" />
+<img src="./sakura-divider.svg" width="100%" alt="" />
 
 ## 🌸 About Me
 
@@ -14,7 +14,7 @@
 - 🌷 Fueled by good ideas, late-night debugging, and way too much coffee
 - 💌 Open to collabs, feedback, and new friends in tech
 
-<img src="./assets/sakura-divider.svg" width="100%" alt="" />
+<img src="./sakura-divider.svg" width="100%" alt="" />
 
 ## 🌷 Tech Garden
 
@@ -35,7 +35,7 @@
 
 </div>
 
-<img src="./assets/sakura-divider.svg" width="100%" alt="" />
+<img src="./sakura-divider.svg" width="100%" alt="" />
 
 ## 💌 Let's Connect
 
@@ -50,6 +50,6 @@
 
 *🌸 "Like sakura, every little bloom of progress counts." 🌸*
 
-<img src="./assets/sakura-footer.svg" width="100%" alt="" />
+<img src="./sakura-footer.svg" width="100%" alt="" />
 
 </div>
