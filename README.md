@@ -43,9 +43,6 @@ Outside of code, I'm fueled by good ideas, late-night debugging, and way too muc
 
 `Problem Solving` · `UI/UX Design` · `Web Development` · `Mobile Development` · `Version Control`
 
-
-*🌸 "Like sakura, every little bloom of progress counts." 🌸*
-
 <img src="./sakura-footer.svg" width="100%" alt="" />
 
 </div>
