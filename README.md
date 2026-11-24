@@ -47,11 +47,11 @@
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-FFB7C5?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-FFC1D6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-FFADC6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://www.facebook.com/YOUR_FACEBOOK"><img src="https://img.shields.io/badge/Facebook-F9A8C4?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-<a href="https://YOUR_PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-FFB7C5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://github.com/BryceMendez"><img src="https://img.shields.io/badge/GitHub-FFB7C5?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/mendezbryce/"><img src="https://img.shields.io/badge/LinkedIn-FFC1D6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:brycemendez570@gmail.com"><img src="https://img.shields.io/badge/Email-FFADC6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.facebook.com/bryce.mendez.513333"><img src="https://img.shields.io/badge/Facebook-F9A8C4?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+<a href="https://mendezportfolio26.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-FFB7C5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 
 <br/><br/>
 
